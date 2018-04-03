@@ -1,0 +1,1 @@
+有关javascript中String的一些方法，来实现标题栏的滚动。
